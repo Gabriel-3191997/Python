@@ -1,6 +1,6 @@
 # Python
 ## Beginner Project
-Calculator
-Address book
-Todo app
-Word counter
+- Calculator
+- Address book
+- Todo app
+- Word counter
