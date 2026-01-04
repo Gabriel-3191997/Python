@@ -1,5 +1,5 @@
 # Python
-## Beginner Project
+### Beginner Project
 - Calculator
 - Address book
 - Todo app
